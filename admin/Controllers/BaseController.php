@@ -1,7 +1,5 @@
 <?php
 
-namespace Controllers;
-
 class BaseController
 {
     const VIEW_FOLDER = 'Views';

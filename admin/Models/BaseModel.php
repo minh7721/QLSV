@@ -1,8 +1,6 @@
 <?php
 
-namespace Models;
-
-class BaseModel extends \Database
+class BaseModel extends Database
 {
     public function __construct()
     {
